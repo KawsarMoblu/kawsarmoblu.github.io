@@ -1,0 +1,53 @@
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="kawsarmoblu.ml" resolutions="1x" timestamp="1535270594322">
+  <folder name="css">
+    <file name="site_global.css" crc="444006867"/>
+    <file name="index.css" crc="3821328025" ref="index"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
+    <file name="museutils.js" crc="340535759" ref="index"/>
+    <file name="whatinput.js" crc="86476730" ref="index"/>
+    <file name="museconfig.js" crc="310584261" ref="index"/>
+    <file name="jquery.watch.js" crc="51536988" ref="index"/>
+    <file name="webpro.js" crc="4059564322" ref="index"/>
+    <file name="musewpslideshow.js" crc="3862962738" ref="index"/>
+    <file name="jquery.museoverlay.js" crc="4147669564" ref="index"/>
+    <file name="touchswipe.js" crc="4075097462" ref="index"/>
+    <file name="require.js" crc="7928878" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="own shirt vv.jpg" crc="4122744644" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="20180523_121506-crop-u388.jpg" crc="230022434" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="20180523_121548-crop-u489.jpg" crc="3870575343" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="20180523_121506.jpg" crc="4087345293" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="blank.gif" crc="4208392903" ref="index"/>
+    <file name="20180523_121548.jpg" crc="141370445" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="loading.gif" crc="3815509949" ref="index"/>
+    <file name="kbor7t2n8z-248-2995xn-5dk-5bsgw-crop-u233.jpg" crc="132804983" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="kbor7t2n8z-248-2995xn-5dk-5bsgw.jpg" crc="4054037929" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u130.png" crc="4163758319" ref="index"/>
+    <file name="u130-r.png" crc="331225729" ref="index"/>
+    <file name="u130-a.png" crc="3856791177" ref="index"/>
+    <file name="u128.png" crc="3973266729" ref="index"/>
+    <file name="u128-r.png" crc="3872448308" ref="index"/>
+    <file name="u128-a.png" crc="385009994" ref="index"/>
+    <file name="u132.png" crc="311622605" ref="index"/>
+    <file name="u132-r.png" crc="4060725283" ref="index"/>
+    <file name="u132-a.png" crc="409862302" ref="index"/>
+  </folder>
+  <file name="index.html" crc="331392422" seo="true" mt="1535269978828" redirect="true"/>
+</manifest>
