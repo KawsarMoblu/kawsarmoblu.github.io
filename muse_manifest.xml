@@ -1,7 +1,7 @@
-<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="kawsarmobluartist.ml" resolutions="1x" timestamp="1535298680144">
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="kawsarmobluartist.ml" resolutions="1x" timestamp="1535385923589">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="index.css" crc="169334818" ref="index"/>
+    <file name="index.css" crc="463915276" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
@@ -16,9 +16,6 @@
     <file name="require.js" crc="7928878" ref="index"/>
   </folder>
   <folder name="images">
-    <file name="own shirt vv.jpg" crc="419598238" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
     <file name="20180523_121506.jpg" crc="4078173166" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
@@ -27,7 +24,6 @@
       <caption webpage="index" alt=""/>
     </file>
     <file name="loading.gif" crc="3815509949" ref="index"/>
-    <file name="u1038-4.png" crc="4074667674" ref="index"/>
     <file name="u1067.png" crc="447554963" ref="index"/>
     <file name="u1067-r.png" crc="3817846265" ref="index"/>
     <file name="u1067-a.png" crc="447554963" ref="index"/>
@@ -187,6 +183,31 @@
     <file name="img_20180821_234406_877.jpg" crc="3856515362" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
+    <file name="front of t-shirtrtyepng.png" crc="167950581" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u1038-5.png" crc="3824720069" ref="index"/>
+    <file name="search icon.png" crc="393210543" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="insta.png" crc="3819926387" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="twter.png" crc="4095927399" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="in.png" crc="4127755645" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="wp.png" crc="4056085283" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="fb.png" crc="4227291167" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="g-.png" crc="144931153" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
   </folder>
-  <file name="index.html" crc="464645343" seo="true" mt="1535298645009" redirect="true"/>
+  <file name="index.html" crc="118316573" seo="true" mt="1535385895298" redirect="true"/>
 </manifest>
