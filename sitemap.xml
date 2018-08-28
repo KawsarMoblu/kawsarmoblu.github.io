@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://kawsarmobluartist.ml/index.html</loc>
-    <lastmod>2018-08-27</lastmod>
+    <lastmod>2018-08-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -166,24 +166,6 @@
     </image:image>
     <image:image>
       <image:loc>http://kawsarmobluartist.ml/images/search%20icon.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://kawsarmobluartist.ml/images/insta.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://kawsarmobluartist.ml/images/twter.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://kawsarmobluartist.ml/images/in.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://kawsarmobluartist.ml/images/wp.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://kawsarmobluartist.ml/images/fb.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://kawsarmobluartist.ml/images/g-.png</image:loc>
     </image:image>
   </url>
 </urlset>

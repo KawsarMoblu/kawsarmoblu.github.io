@@ -1,7 +1,7 @@
-<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="kawsarmobluartist.ml" resolutions="1x" timestamp="1535385923589">
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="kawsarmobluartist.ml" resolutions="1x" timestamp="1535481918299">
   <folder name="css">
-    <file name="site_global.css" crc="444006867"/>
-    <file name="index.css" crc="463915276" ref="index"/>
+    <file name="site_global.css" crc="4085801442"/>
+    <file name="index.css" crc="4038327213" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
@@ -69,7 +69,7 @@
     <file name="20180702_2258401.jpg" crc="3975392178" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="33-crop-u1865.png" crc="469032438" seo="true" ref="index">
+    <file name="33-crop-u1865.png" crc="4213074112" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="culture_png-crop-u2105.png" crc="4186036683" seo="true" ref="index">
@@ -87,7 +87,7 @@
     <file name="glass and bottle-crop-u2125.jpg" crc="384971852" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="img_20180824_150033_hht-crop-u2185.png" crc="2088049" seo="true" ref="index">
+    <file name="img_20180824_150033_hht-crop-u2185.png" crc="414835429" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="mytyke_180309092049222-crop-u2245.png" crc="388719090" seo="true" ref="index">
@@ -190,24 +190,19 @@
     <file name="search icon.png" crc="393210543" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="insta.png" crc="3819926387" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="twter.png" crc="4095927399" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="in.png" crc="4127755645" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="wp.png" crc="4056085283" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="fb.png" crc="4227291167" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="g-.png" crc="144931153" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
+    <file name="u4025-4.png" crc="4072181738" ref="index"/>
+    <file name="u2630.png" crc="460824952" ref="index"/>
+    <file name="u2630-m.png" crc="3869787160" ref="index"/>
+    <file name="u2637.png" crc="3903312333" ref="index"/>
+    <file name="u2637-m.png" crc="207063561" ref="index"/>
+    <file name="u2623.png" crc="280194946" ref="index"/>
+    <file name="u2623-m.png" crc="408023682" ref="index"/>
+    <file name="u2644.png" crc="4005076429" ref="index"/>
+    <file name="u2644-m.png" crc="3985471623" ref="index"/>
+    <file name="u2608.png" crc="261669213" ref="index"/>
+    <file name="u2608-m.png" crc="43513310" ref="index"/>
+    <file name="u2616.png" crc="4135434928" ref="index"/>
+    <file name="u2616-m.png" crc="3978982323" ref="index"/>
   </folder>
-  <file name="index.html" crc="118316573" seo="true" mt="1535385895298" redirect="true"/>
+  <file name="index.html" crc="4010824130" seo="true" mt="1535481894184" redirect="true"/>
 </manifest>
