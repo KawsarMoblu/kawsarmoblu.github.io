@@ -1,18 +1,18 @@
-<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="testsite.com" resolutions="1x" timestamp="1575906319727">
+<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="testsite.com" resolutions="1x" timestamp="1575907277870">
   <folder name="phone">
     <folder name="css">
       <file name="registration.css" crc="62426684" ref="phone>registration"/>
-      <file name="index.css" crc="4177376483" ref="phone>index"/>
+      <file name="index.css" crc="355167215" ref="phone>index"/>
       <file name="login.css" crc="62426684" ref="phone>login"/>
     </folder>
-    <file name="index.html" crc="3999633416" seo="true" mt="1575906279859" redirect="true"/>
-    <file name="login.html" crc="3614261" seo="true" mt="1575906111878" redirect="false"/>
-    <file name="registration.html" crc="30337121" seo="true" mt="1575906111893" redirect="false"/>
+    <file name="index.html" crc="3865384156" seo="true" mt="1575907266685" redirect="true"/>
+    <file name="login.html" crc="3614261" seo="true" mt="1575907066114" redirect="false"/>
+    <file name="registration.html" crc="30337121" seo="true" mt="1575907066125" redirect="false"/>
   </folder>
   <folder name="css">
     <file name="site_global.css" crc="224248659"/>
     <file name="login.css" crc="4193191577" ref="login"/>
-    <file name="index.css" crc="195518788" ref="index"/>
+    <file name="index.css" crc="4180763184" ref="index"/>
     <file name="registration.css" crc="4193191577" ref="registration"/>
   </folder>
   <folder name="scripts">
@@ -20,11 +20,11 @@
     <file name="museutils.js" crc="3939489907" ref="index:login:registration:phone>index:phone>login:phone>registration"/>
     <file name="whatinput.js" crc="86476730" ref="index:login:registration:phone>index:phone>login:phone>registration"/>
     <file name="museconfig.js" crc="3936894949" ref="index:login:registration:phone>index:phone>login:phone>registration"/>
-    <file name="jquery.musepolyfill.bgsize.js" crc="85124417" ref="index:phone>index"/>
-    <file name="webpro.js" crc="3856315280" ref="index:phone>index"/>
-    <file name="musewpslideshow.js" crc="244150766" ref="index:phone>index"/>
-    <file name="jquery.museoverlay.js" crc="3877667098" ref="index:phone>index"/>
-    <file name="touchswipe.js" crc="3888935200" ref="index:phone>index"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="85124417" ref="index"/>
+    <file name="webpro.js" crc="3856315280" ref="index"/>
+    <file name="musewpslideshow.js" crc="244150766" ref="index"/>
+    <file name="jquery.museoverlay.js" crc="3877667098" ref="index"/>
+    <file name="touchswipe.js" crc="3888935200" ref="index"/>
     <file name="jquery.watch.js" crc="522499760" ref="index:login:registration:phone>index:phone>login:phone>registration"/>
     <file name="require.js" crc="4177726516" ref="index:login:registration:phone>index:phone>login:phone>registration"/>
   </folder>
@@ -41,18 +41,12 @@
     <file name="image-8.jpg" crc="269249399" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="logo.jpg" crc="278803112" ref="index:phone>index">
-      <caption webpage="index" alt=""/>
+    <file name="logo.jpg" crc="278803112" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="u3943-4.png" crc="4024109095" ref="index"/>
-    <file name="image-5-u4724-fr.jpg" crc="125721927" ref="phone>index"/>
-    <file name="image-6-u4728-fr.jpg" crc="4005668907" ref="phone>index"/>
-    <file name="image-7-u4732-fr.jpg" crc="512178040" ref="phone>index"/>
-    <file name="image-8-u4736-fr.jpg" crc="3816424698" ref="phone>index"/>
-    <file name="u4717-4.png" crc="413743286" ref="phone>index"/>
   </folder>
-  <file name="index.html" crc="189575971" seo="true" mt="1575906112047" redirect="true"/>
-  <file name="login.html" crc="4195832385" seo="true" mt="1575906112087" redirect="false"/>
-  <file name="registration.html" crc="250235358" seo="true" mt="1575906112132" redirect="false"/>
+  <file name="index.html" crc="3771802984" seo="true" mt="1575907066257" redirect="true"/>
+  <file name="login.html" crc="4195832385" seo="true" mt="1575907066295" redirect="false"/>
+  <file name="registration.html" crc="250235358" seo="true" mt="1575907066340" redirect="false"/>
 </manifest>
