@@ -7,24 +7,32 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
   
   <script type="text/javascript">
-   // Update the 'nojs'/'js' class on the html node
+   // Redirect to phone/tablet as necessary
+(function(c,b,d){var a=function(){if(navigator.maxTouchPoints>1)return!0;if(window.matchMedia&&window.matchMedia("(-moz-touch-enabled)").matches)return!0;for(var a=["Webkit","Moz","O","ms","Khtml"],b=0,c=a.length;b<c;b++){var d=a[b]+"MaxTouchPoints";if(d in navigator&&navigator[d])return!0}try{return document.createEvent("TouchEvent"),!0}catch(f){}return!1}(),f=function(a){a+="=";for(var b=document.cookie.split(";"),c=0;c<b.length;c++){for(var d=b[c];d.charAt(0)==" ";)d=d.substring(1,d.length);if(d.indexOf(a)==
+0)return d.substring(a.length,d.length)}return null};if(f("inbrowserediting")!="true"){var h,f=f("devicelock");f=="phone"&&d?h=d:f=="tablet"&&b&&(h=b);if(f!=c&&!h)if(window.matchMedia)window.matchMedia("(max-device-width: 415px)").matches&&d?h=d:window.matchMedia("(max-device-width: 960px)").matches&&b&&a&&(h=b);else{var c=Math.min(screen.width,screen.height)/(window.devicePixelRatio||1),f=window.screen.systemXDPI||0,g=window.screen.systemYDPI||0,f=f>0&&g>0?Math.min(screen.width/f,screen.height/g):
+0;(c<=370||f!=0&&f<=3)&&d?h=d:c<=960&&b&&a&&(h=b)}if(h)b=document.location.search||"",d=document.location.hash||"",document.write('<style type="text/css">body {visibility:hidden}</style>'),document.location=h+b+d}})("desktop","","phone/index.html");
+
+// Update the 'nojs'/'js' class on the html node
 document.documentElement.className = document.documentElement.className.replace(/\bnojs\b/g, 'js');
 
 // Check that all required assets are uploaded and up-to-date
-if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required":["museutils.js", "museconfig.js", "jquery.musepolyfill.bgsize.js", "webpro.js", "musewpslideshow.js", "jquery.museoverlay.js", "touchswipe.js", "jquery.watch.js", "require.js", "index.css"], "outOfDate":[]};
+if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required":["museutils.js", "museconfig.js", "jquery.watch.js", "require.js", "jquery.musepolyfill.bgsize.js", "webpro.js", "musewpslideshow.js", "jquery.museoverlay.js", "touchswipe.js", "index.css"], "outOfDate":[]};
 </script>
   
+  <link media="only screen and (max-width: 370px)" rel="alternate" href="http://testsite.com/phone/index.html"/>
   <title>Home</title>
   <!-- CSS -->
   <link rel="stylesheet" type="text/css" href="css/site_global.css?crc=224248659"/>
-  <link rel="stylesheet" type="text/css" href="css/index.css?crc=4147344438" id="pagesheet"/>
+  <link rel="stylesheet" type="text/css" href="css/index.css?crc=3779900673" id="pagesheet"/>
   <!-- Other scripts -->
   <script type="text/javascript">
    var __adobewebfontsappname__ = "muse";
 </script>
   <!-- JS includes -->
-  <script src="https://webfonts.creativecloud.com/asap:n7:default;open-sans:n7:default;source-sans-pro:n4:default.js" type="text/javascript"></script>
-    <!--HTML Widget code-->
+  <script src="https://webfonts.creativecloud.com/open-sans:n7:default;source-sans-pro:n4:default;asap:n7:default.js" type="text/javascript"></script>
+    <!--custom head HTML-->
+  <script type='text/javascript' data-cfasync='false'>window.purechatApi = { l: [], t: [], on: function () { this.l.push(arguments); } }; (function () { var done = false; var script = document.createElement('script'); script.async = true; script.type = 'text/javascript'; script.src = 'https://app.purechat.com/VisitorWidget/WidgetScript'; document.getElementsByTagName('HEAD').item(0).appendChild(script); script.onreadystatechange = script.onload = function (e) { if (!done && (!this.readyState || this.readyState == 'loaded' || this.readyState == 'complete')) { var w = new PCWidget({c: 'df97ee4c-bc21-4174-848e-211ed5fc9e1b', f: true }); done = true; } }; })();</script>
+  <!--HTML Widget code-->
   
 		  	<style>
 
@@ -352,51 +360,23 @@ if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required
        </div>
       </div>
      </div>
-     <div class="clearfix grpelem" id="u182-4"><!-- content -->
-      <p>slogan</p>
-     </div>
      <div class="PamphletWidget clearfix allow_click_through grpelem" id="pamphletu1330" data-visibility="changed" style="visibility:hidden" data-sizePolicy="fluidWidth" data-pintopage="page_fixedLeft"><!-- none box -->
       <div class="popup_anchor allow_click_through" data-col-pos="0" id="u1337popup">
        <div class="ContainerGroup clearfix" data-col-pos="0" id="u1337"><!-- stack box -->
-        <div class="pointer_cursor Container invi shadow clearfix grpelem" data-col-pos="0" id="u1338"><!-- group -->
-         <a class="block" data-col-pos="0" href="login.html"><!-- Block link tag --></a>
-         <a class="nonblock nontext clearfix grpelem" id="u1342-4" href="login.html"><!-- content --><p>&nbsp; Whiteboard &amp; Animated Explainers</p></a>
-         <div class="clearfix grpelem" id="u1415-4"><!-- content -->
-          <p>&nbsp; Video Editing</p>
-         </div>
-         <div class="clearfix grpelem" id="u1491-4"><!-- content -->
-          <p>&nbsp; Animated GIFs</p>
-         </div>
-         <div class="clearfix grpelem" id="u1496-4"><!-- content -->
-          <p>&nbsp; Short Video Ads</p>
-         </div>
-         <div class="clearfix grpelem" id="u1501-4"><!-- content -->
-          <p>&nbsp; Logo Animation</p>
-         </div>
-         <div class="clearfix grpelem" id="u1506-4"><!-- content -->
-          <p>&nbsp; Intros &amp; Outros</p>
-         </div>
-         <div class="clearfix grpelem" id="u1511-4"><!-- content -->
-          <p>&nbsp; Character Animation</p>
-         </div>
-         <div class="clearfix grpelem" id="u1516-4"><!-- content -->
-          <p>&nbsp; 3D Product Animation</p>
-         </div>
-         <div class="clearfix grpelem" id="u1521-4"><!-- content -->
-          <p>&nbsp; Product Photography</p>
-         </div>
-         <div class="clearfix grpelem" id="u1526-4"><!-- content -->
-          <p>&nbsp; Animation for Streamers</p>
-         </div>
-         <div class="clearfix grpelem" id="u1531-4"><!-- content -->
-          <p>&nbsp; Other</p>
-         </div>
-        </div>
+        <a class="nonblock nontext Container invi shadow clearfix grpelem" data-col-pos="0" id="u1338" href="login.html"><!-- group --><div class="clearfix grpelem" id="u1491-4"><!-- content --><p>&nbsp; Animated GIFs</p></div><div class="clearfix grpelem" id="u1496-4"><!-- content --><p>&nbsp; Short Video Ads</p></div><div class="clearfix grpelem" id="u1501-4"><!-- content --><p>&nbsp; Logo Animation</p></div><div class="clearfix grpelem" id="u1506-4"><!-- content --><p>&nbsp; Intros &amp; Outros</p></div><div class="clearfix grpelem" id="u1521-4"><!-- content --><p>&nbsp; Product Photography</p></div></a>
        </div>
       </div>
       <div class="ThumbGroup clearfix grpelem" data-col-pos="1" id="u1333" data-sizePolicy="fluidWidth" data-pintopage="page_fixedLeft"><!-- none box -->
-       <div class="popup_anchor allow_click_through" data-col-pos="0" id="u1334popup">
-        <div class="Thumb popup_element" data-col-pos="0" id="u1334"><!-- simple frame --></div>
+       <div class="popup_anchor" id="pu1334popup">
+        <div class="popup_element Thumb clearfix" id="pu1334"><!-- group -->
+         <div class="popup_anchor allow_click_through" data-col-pos="0" id="u1334popup">
+          <div class="popup_element clearfix" data-col-pos="0" id="u1334"><!-- group -->
+           <div class="clearfix grpelem" id="u1327-4" data-sizePolicy="fixed" data-pintopage="page_fluidx"><!-- content -->
+            <p id="u1327-2">Video &amp; Animation</p>
+           </div>
+          </div>
+         </div>
+        </div>
        </div>
       </div>
      </div>
@@ -438,8 +418,16 @@ if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required
        </div>
       </div>
       <div class="ThumbGroup clearfix grpelem" data-col-pos="1" id="u1436" data-sizePolicy="fluidWidth" data-pintopage="page_fixedLeft"><!-- none box -->
-       <div class="popup_anchor allow_click_through" data-col-pos="0" id="u1437popup">
-        <div class="Thumb popup_element" data-col-pos="0" id="u1437"><!-- simple frame --></div>
+       <div class="popup_anchor" id="pu1437popup">
+        <div class="popup_element Thumb clearfix" id="pu1437"><!-- group -->
+         <div class="popup_anchor allow_click_through" data-col-pos="0" id="u1437popup">
+          <div class="popup_element clearfix" data-col-pos="0" id="u1437"><!-- group -->
+           <div class="clearfix grpelem" id="u1487-4" data-sizePolicy="fixed" data-pintopage="page_fluidx"><!-- content -->
+            <p id="u1487-2">Graphic &amp; Design</p>
+           </div>
+          </div>
+         </div>
+        </div>
        </div>
       </div>
      </div>
@@ -453,7 +441,7 @@ if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required
       <div class="rounded-corners grpelem" id="u3346"><!-- simple frame --></div>
       <div class="rounded-corners grpelem" id="u3591"><!-- simple frame --></div>
       <div class="rounded-corners grpelem" id="u3105"><!-- simple frame --></div>
-      <div class="rounded-corners grpelem" id="u3587"><!-- simple frame --></div>
+      <div class="museBGSize rounded-corners grpelem" id="u3587"><!-- simple frame --></div>
       <div class="rounded-corners grpelem" id="u3567"><!-- simple frame --></div>
       <div class="rounded-corners grpelem" id="u3579"><!-- simple frame --></div>
       <div class="rounded-corners grpelem" id="u3351"><!-- simple frame --></div>
@@ -489,7 +477,36 @@ if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required
       </div>
      </div>
     </div>
-    <a class="nonblock nontext MuseLinkActive clearfix colelem" id="u3931" href="index.html"><!-- group --><div class="clearfix grpelem" id="pu3940"><!-- column --><div class="rounded-corners colelem" id="u3940"><!-- simple frame --></div><div class="clearfix colelem" id="u4156-8"><!-- content --><p id="u4156-2"><span id="u4156">Send us message</span></p><p id="u4156-3">&nbsp;</p><p id="u4156-5"><span id="u4156-4">It's easy. Simply send us message what you need to completed and receive competitive reply from our designer within minutes.</span></p><p id="u4156-6">&nbsp;</p></div></div><div class="clearfix grpelem" id="pu3943-4"><!-- column --><img class="colelem" id="u3943-4" alt="How we works" src="images/u3943-4.png?crc=170822822" data-image-width="407"/><!-- rasterized frame --><div class="rounded-corners colelem" id="u4058"><!-- simple frame --></div><div class="clearfix colelem" id="u4143-9"><!-- content --><p id="u4143-2">Choose a plan</p><p id="u4143-3">&nbsp;</p><p id="u4143-6"><span id="u4143-4">Whatever your needs, there will be lot of designer to get it done: from Video and animation, Graphic and design,(and a whole lot more)</span><span id="u4143-5">.</span></p><p id="u4143-7">&nbsp;</p></div></div><div class="clearfix grpelem" id="pu4063"><!-- column --><div class="rounded-corners colelem" id="u4063"><!-- simple frame --></div><div class="clearfix colelem" id="u4161-8"><!-- content --><p id="u4161-2">Pay safely</p><p id="u4161-3">&nbsp;</p><p id="u4161-5">With secure payments and thousands of reviewed professionals to choose from, example.com is the simplest and safest way to get work done online.</p><p id="u4161-6">&nbsp;</p></div></div></a>
+    <div class="clearfix colelem" id="u3931"><!-- group -->
+     <div class="clearfix grpelem" id="pu3940"><!-- column -->
+      <div class="rounded-corners colelem" id="u3940"><!-- simple frame --></div>
+      <div class="clearfix colelem" id="u4156-8"><!-- content -->
+       <p id="u4156-2"><span id="u4156">Chat with us</span></p>
+       <p id="u4156-3">&nbsp;</p>
+       <p id="u4156-5"><span id="u4156-4">It's easy. Simply send us message what you need to completed and receive competitive reply from our designer within minutes.</span></p>
+       <p id="u4156-6">&nbsp;</p>
+      </div>
+     </div>
+     <div class="clearfix grpelem" id="pu3943-4"><!-- column -->
+      <img class="colelem" id="u3943-4" alt="How we works" src="images/u3943-4.png?crc=170822822" data-image-width="407"/><!-- rasterized frame -->
+      <div class="rounded-corners colelem" id="u4058"><!-- simple frame --></div>
+      <div class="clearfix colelem" id="u4143-9"><!-- content -->
+       <p id="u4143-2">Choose a plan</p>
+       <p id="u4143-3">&nbsp;</p>
+       <p id="u4143-6"><span id="u4143-4">Whatever your needs, there have a lot of design plan to get it done: from Graphic and design, Video and animation,(and a whole lot more)</span><span id="u4143-5">.</span></p>
+       <p id="u4143-7">&nbsp;</p>
+      </div>
+     </div>
+     <div class="clearfix grpelem" id="pu4063"><!-- column -->
+      <div class="rounded-corners colelem" id="u4063"><!-- simple frame --></div>
+      <div class="clearfix colelem" id="u4161-8"><!-- content -->
+       <p id="u4161-2">Pay safely</p>
+       <p id="u4161-3">&nbsp;</p>
+       <p id="u4161-5">With secure payments and thousands of reviewed professionals to choose from, example.com is the simplest and safest way to get work done online.</p>
+       <p id="u4161-6">&nbsp;</p>
+      </div>
+     </div>
+    </div>
     <div class="clearfix colelem" id="u5360"><!-- group -->
      <div class="clearfix grpelem" id="pu5450-4"><!-- column -->
       <img class="colelem" id="u5450-4" alt="We Design Your Think" src="images/u5450-4.png?crc=3882041511" data-image-width="545"/><!-- rasterized frame -->
@@ -552,9 +569,7 @@ if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required
      <div id="u94"><!-- simple frame --></div>
     </div>
     <div id="u179-4-wrapper">
-     <div class="clearfix" id="u179-4"><!-- content -->
-      <p>Logo</p>
-     </div>
+     <a class="nonblock nontext MuseLinkActive clearfix" id="u179-4" href="index.html"><!-- content --><p>Logo</p></a>
     </div>
     <div id="u139-4-wrapper">
      <a class="nonblock nontext clearfix" id="u139-4" href="registration.html"><!-- content --><p>Join</p></a>
@@ -562,19 +577,14 @@ if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required
     <div id="u133-4-wrapper">
      <a class="nonblock nontext clearfix" id="u133-4" href="login.html"><!-- content --><p>Sign In</p></a>
     </div>
-    <div class="clearfix" id="u1327-4"><!-- content -->
-     <p id="u1327-2">Video &amp; Animation</p>
-    </div>
-    <div class="clearfix" id="u1487-4"><!-- content -->
-     <p id="u1487-2">Graphic &amp; Design</p>
-    </div>
     <div id="u1586-4-wrapper">
      <div class="clearfix" id="u1586-4"><!-- content -->
-      <p>Send us message</p>
+      <p>Chat with us!</p>
      </div>
     </div>
    </div>
    <div class="verticalspacer" data-offset-top="4337" data-content-above-spacer="4336" data-content-below-spacer="165" data-sizePolicy="fixed" data-pintopage="page_fixedLeft"></div>
+   <div class="grpelem" id="u6370"><!-- simple frame --></div>
   </div>
   <!-- JS includes -->
   <script type="text/javascript">
