@@ -1,4 +1,4 @@
-<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="testsite.com" resolutions="1x" timestamp="1576349427453">
+<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="testsite.com" resolutions="1x" timestamp="1577881666767">
   <folder name="phone">
     <folder name="css">
       <file name="login.css" crc="62426684" ref="phone>login"/>
@@ -20,9 +20,9 @@
   <folder name="css">
     <file name="site_global.css" crc="224248659"/>
     <file name="login.css" crc="4193191577" ref="login"/>
-    <file name="index.css" crc="3779900673" ref="index"/>
+    <file name="index.css" crc="4002649096" ref="index"/>
     <file name="registration.css" crc="4193191577" ref="registration"/>
-    <file name="logo-design.css" crc="449716688" ref="logo-design"/>
+    <file name="logo-design.css" crc="468429072" ref="logo-design"/>
     <file name="business-cards.css" crc="3782744637" ref="business-cards"/>
   </folder>
   <folder name="scripts">
@@ -31,10 +31,10 @@
     <file name="whatinput.js" crc="86476730" ref="index:login:registration:logo-design:business-cards:phone>index:phone>login:phone>registration:phone>logo-design:phone>business-cards"/>
     <file name="museconfig.js" crc="3936894949" ref="index:login:registration:logo-design:business-cards:phone>index:phone>login:phone>registration:phone>logo-design:phone>business-cards"/>
     <file name="jquery.musepolyfill.bgsize.js" crc="85124417" ref="index"/>
-    <file name="webpro.js" crc="3856315280" ref="index:logo-design:business-cards"/>
-    <file name="musewpslideshow.js" crc="244150766" ref="index:logo-design:business-cards"/>
-    <file name="jquery.museoverlay.js" crc="3877667098" ref="index:logo-design:business-cards"/>
-    <file name="touchswipe.js" crc="3888935200" ref="index:logo-design:business-cards"/>
+    <file name="webpro.js" crc="3856315280" ref="index:business-cards"/>
+    <file name="musewpslideshow.js" crc="244150766" ref="index:business-cards"/>
+    <file name="jquery.museoverlay.js" crc="3877667098" ref="index:business-cards"/>
+    <file name="touchswipe.js" crc="3888935200" ref="index:business-cards"/>
     <file name="jquery.watch.js" crc="522499760" ref="index:login:registration:logo-design:business-cards:phone>index:phone>login:phone>registration:phone>logo-design:phone>business-cards"/>
     <file name="require.js" crc="4177726516" ref="index:login:registration:logo-design:business-cards:phone>index:phone>login:phone>registration:phone>logo-design:phone>business-cards"/>
   </folder>
@@ -51,7 +51,7 @@
     <file name="image-8.jpg" crc="269249399" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="logo.jpg" crc="278803112" ref="index">
+    <file name="logo.jpg" crc="16526105" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="u3943-4.png" crc="170822822" ref="index"/>
@@ -60,11 +60,7 @@
     <file name="u5475-4.png" crc="4226591580" ref="index"/>
     <file name="u5646-4.png" crc="4138696720" ref="logo-design"/>
     <file name="u6169-4.png" crc="4138696720" ref="business-cards"/>
-    <file name="1200x628.gif" crc="3902924475" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
     <file name="animation.gif" crc="395228493" ref="index:phone>index">
-      <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
     <file name="send us message.jpg" crc="242719074" ref="index">
@@ -76,10 +72,52 @@
     <file name="pay safely.jpg" crc="3761899193" ref="index">
       <caption webpage="index" alt=""/>
     </file>
+    <file name="illustration.jpg" crc="4292633472" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="logo-animation.gif" crc="120488410" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="flayer.jpg" crc="1397968" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="bannar-ads.jpg" crc="486052750" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="cartoon.jpg" crc="33134795" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="photoshop.jpg" crc="155663534" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="packaging.jpg" crc="4242427225" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="poster.jpg" crc="4001749523" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="intros.gif" crc="3804094720" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="t-shirt.jpg" crc="83498954" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u6917-4.png" crc="3928982711" ref="logo-design"/>
+    <file name="u6922-4.png" crc="4251450165" ref="logo-design"/>
+    <file name="u6925-4.png" crc="332522163" ref="logo-design"/>
+    <file name="u6928-4.png" crc="394635775" ref="logo-design"/>
+    <file name="u6937-4.png" crc="535084632" ref="logo-design"/>
+    <file name="star.png" crc="111719286" seo="true" ref="logo-design">
+      <caption webpage="logo-design" alt=""/>
+      <caption webpage="logo-design" alt=""/>
+      <caption webpage="logo-design" alt=""/>
+      <caption webpage="logo-design" alt=""/>
+      <caption webpage="logo-design" alt=""/>
+    </file>
   </folder>
-  <file name="index.html" crc="4151065292" seo="true" mt="1576349417496" redirect="true"/>
+  <file name="index.html" crc="4236459522" seo="true" mt="1577880871535" redirect="true"/>
   <file name="login.html" crc="382296727" seo="true" mt="1576349362585" redirect="false"/>
   <file name="registration.html" crc="3955183647" seo="true" mt="1576349362629" redirect="false"/>
-  <file name="logo-design.html" crc="418374455" seo="true" mt="1576349362673" redirect="true"/>
+  <file name="logo-design.html" crc="103407943" seo="true" mt="1577724477539" redirect="true"/>
   <file name="business-cards.html" crc="181604506" seo="true" mt="1576349362713" redirect="true"/>
 </manifest>
