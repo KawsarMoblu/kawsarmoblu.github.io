@@ -2,35 +2,157 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://testsite.com/index.html</loc>
-    <lastmod>2020-01-01</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-    <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://testsite.com/phone/index.html"/>
-  </url>
-  <url>
-    <loc>http://testsite.com/login.html</loc>
-    <lastmod>2019-12-14</lastmod>
+    <lastmod>2020-01-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://testsite.com/registration.html</loc>
-    <lastmod>2019-12-14</lastmod>
+    <loc>http://testsite.com/poster-design.html</loc>
+    <lastmod>2020-01-14</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://testsite.com/invitation-design.html</loc>
+    <lastmod>2020-01-14</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://testsite.com/how-it-works.html</loc>
+    <lastmod>2020-01-14</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://testsite.com/news.html</loc>
+    <lastmod>2020-01-14</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://testsite.com/custom-package.html</loc>
+    <lastmod>2020-01-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://testsite.com/logo-design.html</loc>
-    <lastmod>2019-12-30</lastmod>
+    <lastmod>2020-01-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
-      <image:loc>http://testsite.com/images/star.png</image:loc>
+      <image:loc>http://testsite.com/images/clock.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://testsite.com/images/revsn-crop-u8398.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://testsite.com/images/mark.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://testsite.com/images/mark2.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://testsite.com/images/revsn-crop-u7896.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://testsite.com/images/revsn-crop-u8482.png</image:loc>
     </image:image>
   </url>
   <url>
     <loc>http://testsite.com/business-cards.html</loc>
-    <lastmod>2019-12-14</lastmod>
+    <lastmod>2020-01-11</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://testsite.com/illustration.html</loc>
+    <lastmod>2020-01-14</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://testsite.com/cartoons---comics.html</loc>
+    <lastmod>2020-01-14</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://testsite.com/photoshop-editing.html</loc>
+    <lastmod>2020-01-14</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://testsite.com/banner-ads.html</loc>
+    <lastmod>2020-01-14</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://testsite.com/flyer-design.html</loc>
+    <lastmod>2020-01-14</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://testsite.com/t-shirts---merchandise.html</loc>
+    <lastmod>2020-01-14</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://testsite.com/logo-animation.html</loc>
+    <lastmod>2020-01-14</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://testsite.com/intros---outros.html</loc>
+    <lastmod>2020-01-14</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://testsite.com/packaging-design.html</loc>
+    <lastmod>2020-01-14</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://testsite.com/animated-gifs.html</loc>
+    <lastmod>2020-01-14</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://testsite.com/short-video-ads.html</loc>
+    <lastmod>2020-01-14</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://testsite.com/about-us.html</loc>
+    <lastmod>2020-01-14</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://testsite.com/terms-of-service.html</loc>
+    <lastmod>2020-01-14</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://testsite.com/product-photography.html</loc>
+    <lastmod>2020-01-14</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://testsite.com/privacy-policy.html</loc>
+    <lastmod>2020-01-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -41,8 +163,26 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>http://testsite.com/assets/buy-now.png</loc>
+    <lastmod>2020-01-19</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>http://testsite.com/assets/f1.jpg</loc>
-    <lastmod>2019-12-09</lastmod>
+    <lastmod>2020-01-07</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://testsite.com/assets/2f2.jpg</loc>
+    <lastmod>2020-01-07</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://testsite.com/assets/2f1.jpg</loc>
+    <lastmod>2020-01-07</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
