@@ -1,4 +1,30 @@
-<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="testsite.com" resolutions="1x" timestamp="1579443777315">
+<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="testsite.com" resolutions="1x" timestamp="1579456133988">
+  <folder name="css">
+    <file name="site_global.css" crc="224248659"/>
+    <file name="short-video-ads.css" crc="4193191577" ref="short-video-ads"/>
+    <file name="privacy-policy.css" crc="4193191577" ref="privacy-policy"/>
+    <file name="index.css" crc="3905068239" ref="index"/>
+    <file name="news.css" crc="4193191577" ref="news"/>
+    <file name="business-cards.css" crc="124414858" ref="business-cards"/>
+    <file name="intros---outros.css" crc="4193191577" ref="intros---outros"/>
+    <file name="photoshop-editing.css" crc="4193191577" ref="photoshop-editing"/>
+    <file name="terms-of-service.css" crc="4193191577" ref="terms-of-service"/>
+    <file name="packaging-design.css" crc="4193191577" ref="packaging-design"/>
+    <file name="logo-animation.css" crc="4193191577" ref="logo-animation"/>
+    <file name="poster-design.css" crc="4193191577" ref="poster-design"/>
+    <file name="how-it-works.css" crc="4193191577" ref="how-it-works"/>
+    <file name="invitation-design.css" crc="4193191577" ref="invitation-design"/>
+    <file name="product-photography.css" crc="4193191577" ref="product-photography"/>
+    <file name="cartoons---comics.css" crc="4193191577" ref="cartoons---comics"/>
+    <file name="banner-ads.css" crc="4193191577" ref="banner-ads"/>
+    <file name="animated-gifs.css" crc="4193191577" ref="animated-gifs"/>
+    <file name="illustration.css" crc="4193191577" ref="illustration"/>
+    <file name="t-shirts---merchandise.css" crc="4193191577" ref="t-shirts---merchandise"/>
+    <file name="custom-package.css" crc="4193191577" ref="custom-package"/>
+    <file name="logo-design.css" crc="4010656061" ref="logo-design"/>
+    <file name="about-us.css" crc="4193191577" ref="about-us"/>
+    <file name="flyer-design.css" crc="4193191577" ref="flyer-design"/>
+  </folder>
   <folder name="assets">
     <file name="f1.jpg" crc="26858153" seo="true" mt="1578416486000"/>
     <file name="a1.jpg" crc="4048110697" seo="true" mt="1575917114000"/>
@@ -6,80 +32,34 @@
     <file name="2f2.jpg" crc="3941948196" seo="true" mt="1578416715000"/>
     <file name="buy-now.png" crc="379194566" seo="true" mt="1579436156000"/>
   </folder>
-  <folder name="css">
-    <file name="site_global.css" crc="224248659"/>
-    <file name="index.css" crc="4040825292" ref="index"/>
-    <file name="logo-design.css" crc="128863176" ref="logo-design"/>
-    <file name="business-cards.css" crc="4258781121" ref="business-cards"/>
-    <file name="about-us.css" crc="4193191577" ref="about-us"/>
-    <file name="flyer-design.css" crc="4193191577" ref="flyer-design"/>
-    <file name="short-video-ads.css" crc="4193191577" ref="short-video-ads"/>
-    <file name="invitation-design.css" crc="4193191577" ref="invitation-design"/>
-    <file name="product-photography.css" crc="4193191577" ref="product-photography"/>
-    <file name="photoshop-editing.css" crc="4193191577" ref="photoshop-editing"/>
-    <file name="how-it-works.css" crc="4193191577" ref="how-it-works"/>
-    <file name="animated-gifs.css" crc="4193191577" ref="animated-gifs"/>
-    <file name="banner-ads.css" crc="4193191577" ref="banner-ads"/>
-    <file name="intros---outros.css" crc="4193191577" ref="intros---outros"/>
-    <file name="cartoons---comics.css" crc="4193191577" ref="cartoons---comics"/>
-    <file name="news.css" crc="4193191577" ref="news"/>
-    <file name="poster-design.css" crc="4193191577" ref="poster-design"/>
-    <file name="logo-animation.css" crc="4193191577" ref="logo-animation"/>
-    <file name="illustration.css" crc="4193191577" ref="illustration"/>
-    <file name="privacy-policy.css" crc="4193191577" ref="privacy-policy"/>
-    <file name="t-shirts---merchandise.css" crc="4193191577" ref="t-shirts---merchandise"/>
-    <file name="packaging-design.css" crc="4193191577" ref="packaging-design"/>
-    <file name="terms-of-service.css" crc="4193191577" ref="terms-of-service"/>
-    <file name="custom-package.css" crc="4193191577" ref="custom-package"/>
-  </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:logo-design:business-cards:illustration:cartoons---comics:photoshop-editing:banner-ads:flyer-design:t-shirts---merchandise:poster-design:invitation-design:packaging-design:animated-gifs:short-video-ads:logo-animation:intros---outros:product-photography:about-us:terms-of-service:privacy-policy:news:how-it-works:custom-package"/>
     <file name="museutils.js" crc="3939489907" ref="index:logo-design:business-cards:illustration:cartoons---comics:photoshop-editing:banner-ads:flyer-design:t-shirts---merchandise:poster-design:invitation-design:packaging-design:animated-gifs:short-video-ads:logo-animation:intros---outros:product-photography:about-us:terms-of-service:privacy-policy:news:how-it-works:custom-package"/>
     <file name="whatinput.js" crc="86476730" ref="index:logo-design:business-cards:illustration:cartoons---comics:photoshop-editing:banner-ads:flyer-design:t-shirts---merchandise:poster-design:invitation-design:packaging-design:animated-gifs:short-video-ads:logo-animation:intros---outros:product-photography:about-us:terms-of-service:privacy-policy:news:how-it-works:custom-package"/>
     <file name="museconfig.js" crc="3936894949" ref="index:logo-design:business-cards:illustration:cartoons---comics:photoshop-editing:banner-ads:flyer-design:t-shirts---merchandise:poster-design:invitation-design:packaging-design:animated-gifs:short-video-ads:logo-animation:intros---outros:product-photography:about-us:terms-of-service:privacy-policy:news:how-it-works:custom-package"/>
     <file name="jquery.musepolyfill.bgsize.js" crc="85124417" ref="index:logo-design"/>
-    <file name="webpro.js" crc="3856315280" ref="index:business-cards:logo-design"/>
-    <file name="musewpslideshow.js" crc="244150766" ref="index:business-cards:logo-design"/>
-    <file name="jquery.museoverlay.js" crc="3877667098" ref="index:business-cards:logo-design"/>
-    <file name="touchswipe.js" crc="3888935200" ref="index:business-cards:logo-design"/>
+    <file name="webpro.js" crc="3856315280" ref="index:logo-design:business-cards"/>
+    <file name="musewpslideshow.js" crc="244150766" ref="index:logo-design:business-cards"/>
+    <file name="jquery.museoverlay.js" crc="3877667098" ref="index:logo-design:business-cards"/>
+    <file name="touchswipe.js" crc="3888935200" ref="index:logo-design:business-cards"/>
     <file name="jquery.watch.js" crc="522499760" ref="index:logo-design:business-cards:illustration:cartoons---comics:photoshop-editing:banner-ads:flyer-design:t-shirts---merchandise:poster-design:invitation-design:packaging-design:animated-gifs:short-video-ads:logo-animation:intros---outros:product-photography:about-us:terms-of-service:privacy-policy:news:how-it-works:custom-package"/>
     <file name="require.js" crc="4177726516" ref="index:logo-design:business-cards:illustration:cartoons---comics:photoshop-editing:banner-ads:flyer-design:t-shirts---merchandise:poster-design:invitation-design:packaging-design:animated-gifs:short-video-ads:logo-animation:intros---outros:product-photography:about-us:terms-of-service:privacy-policy:news:how-it-works:custom-package"/>
     <file name="musewpdisclosure.js" crc="4294234138" ref="logo-design"/>
   </folder>
   <folder name="images">
+    <file name="image-7.jpg" crc="208975256" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
     <file name="image-5.jpg" crc="3975743789" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="image-6.jpg" crc="280686937" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="image-7.jpg" crc="208975256" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
     <file name="image-8.jpg" crc="269249399" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="logo.jpg" crc="16526105" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="u3943-4.png" crc="170822822" ref="index"/>
     <file name="u1850-4.png" crc="4134157753" ref="index"/>
-    <file name="u5450-4.png" crc="3882041511" ref="index"/>
-    <file name="u5475-4.png" crc="4226591580" ref="index"/>
-    <file name="u5646-4.png" crc="342396884" ref="logo-design"/>
-    <file name="u6169-4.png" crc="4138696720" ref="business-cards"/>
-    <file name="animation.gif" crc="395228493" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="send us message.jpg" crc="242719074" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="choice a plan.jpg" crc="4281132529" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="pay safely.jpg" crc="3761899193" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
     <file name="illustration.jpg" crc="4292633472" ref="index">
       <caption webpage="index" alt=""/>
     </file>
@@ -101,6 +81,9 @@
     <file name="packaging.jpg" crc="4242427225" ref="index">
       <caption webpage="index" alt=""/>
     </file>
+    <file name="animation.gif" crc="395228493" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
     <file name="poster.jpg" crc="4001749523" ref="index">
       <caption webpage="index" alt=""/>
     </file>
@@ -110,6 +93,42 @@
     <file name="t-shirt.jpg" crc="83498954" ref="index">
       <caption webpage="index" alt=""/>
     </file>
+    <file name="logo.jpg" crc="16526105" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="send us message.jpg" crc="242719074" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u3943-4.png" crc="170822822" ref="index"/>
+    <file name="choice a plan.jpg" crc="4281132529" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="pay safely.jpg" crc="3761899193" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u5450-4.png" crc="3882041511" ref="index"/>
+    <file name="u5475-4.png" crc="4226591580" ref="index"/>
+    <file name="fb.png" crc="3837012658" ref="index:logo-design">
+      <caption webpage="index" alt=""/>
+      <caption webpage="logo-design" alt=""/>
+    </file>
+    <file name="fb-u9519-r-fr.png" crc="4224815191" ref="index:logo-design"/>
+    <file name="ttr.png" crc="4034240728" ref="index:logo-design">
+      <caption webpage="index" alt=""/>
+      <caption webpage="logo-design" alt=""/>
+    </file>
+    <file name="ttr-u9520-r-fr.png" crc="290911313" ref="index:logo-design"/>
+    <file name="in.png" crc="3791776607" ref="index:logo-design">
+      <caption webpage="index" alt=""/>
+      <caption webpage="logo-design" alt=""/>
+    </file>
+    <file name="in-u9521-r-fr.png" crc="58265127" ref="index:logo-design"/>
+    <file name="insta.png" crc="268046763" ref="index:logo-design">
+      <caption webpage="index" alt=""/>
+      <caption webpage="logo-design" alt=""/>
+    </file>
+    <file name="insta-u9522-r-fr.png" crc="26612254" ref="index:logo-design"/>
+    <file name="u5646-4.png" crc="342396884" ref="logo-design"/>
     <file name="1.jpg" crc="136985397" ref="logo-design">
       <caption webpage="logo-design" alt=""/>
     </file>
@@ -175,26 +194,11 @@
     <file name="revsn-crop-u8482.png" crc="3775016198" seo="true" ref="logo-design">
       <caption webpage="logo-design" alt=""/>
     </file>
-    <file name="fb.png" crc="3837012658" ref="logo-design">
-      <caption webpage="logo-design" alt=""/>
-    </file>
-    <file name="fb-u9295-r-fr.png" crc="4224815191" ref="logo-design"/>
-    <file name="ttr.png" crc="4034240728" ref="logo-design">
-      <caption webpage="logo-design" alt=""/>
-    </file>
-    <file name="ttr-u9305-r-fr.png" crc="290911313" ref="logo-design"/>
-    <file name="in.png" crc="3791776607" ref="logo-design">
-      <caption webpage="logo-design" alt=""/>
-    </file>
-    <file name="in-u9308-r-fr.png" crc="58265127" ref="logo-design"/>
-    <file name="insta.png" crc="268046763" ref="logo-design">
-      <caption webpage="logo-design" alt=""/>
-    </file>
-    <file name="insta-u9314-r-fr.png" crc="26612254" ref="logo-design"/>
+    <file name="u6169-4.png" crc="4138696720" ref="business-cards"/>
   </folder>
-  <file name="index.html" crc="208885625" seo="true" mt="1579267630861" redirect="true"/>
-  <file name="logo-design.html" crc="398132388" seo="true" mt="1579443167385" redirect="true"/>
-  <file name="business-cards.html" crc="209113203" seo="true" mt="1578765916639" redirect="true"/>
+  <file name="index.html" crc="3893299183" seo="true" mt="1579455466442" redirect="true"/>
+  <file name="logo-design.html" crc="217905815" seo="true" mt="1579443167385" redirect="true"/>
+  <file name="business-cards.html" crc="81711470" seo="true" mt="1578765916639" redirect="true"/>
   <file name="illustration.html" crc="496904660" seo="true" mt="1579023678564" redirect="false"/>
   <file name="cartoons---comics.html" crc="31136833" seo="true" mt="1579023696378" redirect="false"/>
   <file name="photoshop-editing.html" crc="271476855" seo="true" mt="1579023713724" redirect="false"/>
